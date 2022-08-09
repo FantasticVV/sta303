@@ -1,1 +1,1 @@
-# sta303
+# This is a strategic analysis of the new product line and device performance for MINGAR, which analyzes the age range and income groups for which the product is intended, and the device performance issues.
